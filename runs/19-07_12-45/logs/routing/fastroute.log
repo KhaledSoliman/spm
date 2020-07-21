@@ -1,0 +1,222 @@
+OpenROAD 0.9.0 d6e0844670
+This program is licensed under the BSD-3 license. See the LICENSE file for details. 
+Components of the program may be licensed under more restrictive licenses which must be honored.
+Notice 0: Reading LEF file:  /openLANE_flow/designs/spm/runs/19-07_12-45/tmp/merged_unpadded.lef
+Notice 0:     Created 11 technology layers
+Notice 0:     Created 25 technology vias
+Notice 0:     Created 439 library cells
+Notice 0: Finished LEF file:  /openLANE_flow/designs/spm/runs/19-07_12-45/tmp/merged_unpadded.lef
+Notice 0: 
+Reading DEF file: /openLANE_flow/designs/spm/runs/19-07_12-45/tmp/routing/addspacers.def
+Notice 0: Design: spm
+Notice 0:     Created 38 pins.
+Notice 0:     Created 2939 components and 7751 component-terminals.
+Notice 0:     Created 2 special nets and 0 connections.
+Notice 0:     Created 406 nets and 1873 connections.
+Notice 0: Finished DEF file: /openLANE_flow/designs/spm/runs/19-07_12-45/tmp/routing/addspacers.def
+
+ *****************
+ *   FastRoute   *
+ *****************
+
+[PARAMS] Min routing layer: 2
+[PARAMS] Max routing layer: 6
+[PARAMS] Global adjustment: 0
+[PARAMS] Unidirectional routing: 1
+[PARAMS] Clock net routing: 0
+[PARAMS] Max routing length: -1um
+[PARAMS] Grid origin: (-1, -1)
+
+Initializing grid...
+[INFO] #DB Obstructions: 0
+[INFO] #DB Obstacles: 8960
+[INFO] #DB Macros: 0
+Initializing grid... Done!
+Initializing routing layers...
+Initializing routing layers... Done!
+Initializing routing tracks...
+Initializing routing tracks... Done!
+Setting capacities...
+Setting capacities... Done!
+Setting spacings and widths...
+Setting spacings and widths... Done!
+Initializing nets...
+Checking pin placement...
+Checking pin placement... Done!
+ > ----Checking sinks/source...
+ > ----Checking sinks/source... Done!
+[INFO] Minimum degree: 2
+[INFO] Maximum degree: 33
+Initializing nets... Done!
+Adjusting grid...
+Adjusting grid... Done!
+Computing track adjustments...
+Computing track adjustments... Done!
+Computing obstacles adjustments...
+[INFO] Processing 24421 obstacles in layer 1
+[INFO] Processing 7667 obstacles in layer 2
+[INFO] Processing 2 obstacles in layer 5
+[INFO] Processing 2 obstacles in layer 6
+Computing obstacles adjustments... Done!
+Computing user defined adjustments...
+Computing user defined adjustments... Done!
+Computing user defined layers adjustments...
+[INFO] Reducing resources of layer 1 by 99%
+Computing user defined layers adjustments... Done!
+[INFO] Elapsed time: 0.043266
+Running FastRoute...
+
+[INFO] WIRELEN : 1694, WIRELEN1 : 0
+[INFO] NumSeg  : 1169
+[INFO] NumShift: 0
+First L Route
+[INFO] WIRELEN : 1694, WIRELEN1 : 1694
+[INFO] NumSeg  : 1162
+[INFO] NumShift: 31
+[Overflow Report] Total hCap    : 5094
+[Overflow Report] Total vCap    : 7754
+[Overflow Report] Total Usage   : 1694
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] Num Overflow e: 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+Second L Route
+[Overflow Report] Total hCap    : 5094
+[Overflow Report] Total vCap    : 7754
+[Overflow Report] Total Usage   : 1694
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] Num Overflow e: 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+First Z Route
+[Overflow Report] Total hCap    : 5094
+[Overflow Report] Total vCap    : 7754
+[Overflow Report] Total Usage   : 1694
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] Num Overflow e: 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+[INFO] LV routing round 0, enlarge 10 
+[INFO] 10 threshold, 10 expand
+[Overflow Report] total Usage   : 1694
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] Num Overflow e: 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+[INFO] LV routing round 1, enlarge 15 
+[INFO] 5 threshold, 15 expand
+[Overflow Report] total Usage   : 1694
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] Num Overflow e: 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+[INFO] LV routing round 2, enlarge 20 
+[INFO] 1 threshold, 20 expand
+[Overflow Report] total Usage   : 1694
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] Num Overflow e: 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+Usage checked
+Maze routing finished
+[INFO] P3 runtime: 0.000000 sec
+[INFO] Final 2D results: 
+[Overflow Report] total Usage   : 1694
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] Num Overflow e: 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+Layer Assignment Begins
+Layer assignment finished
+[INFO] 2D + Layer Assignment Runtime: 4.360000 sec
+Post Processing Begins 
+Post Processsing finished
+ Starting via filling
+[INFO] Via related to pin nodes 3685
+[INFO] Via related stiner nodes 62
+Via filling finished
+
+Final usage/overflow report: 
+[INFO] Usage per layer: 
+    Layer 1 usage: 0
+    Layer 2 usage: 162
+    Layer 3 usage: 868
+    Layer 4 usage: 694
+    Layer 5 usage: 0
+    Layer 6 usage: 0
+
+[INFO] Capacity per layer: 
+    Layer 1 capacity: 0
+    Layer 2 capacity: 1031
+    Layer 3 capacity: 5301
+    Layer 4 capacity: 3417
+    Layer 5 capacity: 2453
+    Layer 6 capacity: 646
+
+[INFO] Use percentage per layer: 
+    Layer 1 use percentage: 0.0%
+    Layer 2 use percentage: 15.71%
+    Layer 3 use percentage: 16.37%
+    Layer 4 use percentage: 20.31%
+    Layer 5 use percentage: 0.00%
+    Layer 6 use percentage: 0.00%
+
+[INFO] Overflow per layer: 
+    Layer 1 overflow: 0
+    Layer 2 overflow: 0
+    Layer 3 overflow: 0
+    Layer 4 overflow: 0
+    Layer 5 overflow: 0
+    Layer 6 overflow: 0
+
+[Overflow Report] Total Usage   : 1724
+[Overflow Report] Total Capacity: 12848
+[Overflow Report] Max H Overflow: 0
+[Overflow Report] Max V Overflow: 0
+[Overflow Report] Max Overflow  : 0
+[Overflow Report] H   Overflow  : 0
+[Overflow Report] V   Overflow  : 0
+[Overflow Report] Final Overflow: 0
+
+[INFO] Final usage          : 1724
+[INFO] Final number of vias : 3906
+[INFO] Final usage 3D       : 13442
+Getting results...
+Getting results... Done!
+
+Running FastRoute... Done!
+ > Fixing long segments...
+[WARNING] Max routing length not defined. Skipping...
+[INFO] Total wirelength: 23791.199219 um
+[INFO] Elapsed time: 4.370376
+Writing guides...
+[INFO] Num routed nets: 406
+Writing guides... Done!

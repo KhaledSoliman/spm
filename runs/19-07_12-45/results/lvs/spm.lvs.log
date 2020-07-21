@@ -1,0 +1,313 @@
+
+Cell scs8hd_diode_2 disconnected node: DIODE
+Cell scs8hd_diode_2 disconnected node: vgnd
+Cell scs8hd_diode_2 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_diode_2 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_diode_2                  |Circuit 2: scs8hd_diode_2                  
+-------------------------------------------|-------------------------------------------
+DIODE                                      |DIODE                                      
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_diode_2 and scs8hd_diode_2 are equivalent.
+
+Cell scs8hd_clkbuf_4 disconnected node: A
+Cell scs8hd_clkbuf_4 disconnected node: X
+Cell scs8hd_clkbuf_4 disconnected node: vgnd
+Cell scs8hd_clkbuf_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_clkbuf_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_clkbuf_4                 |Circuit 2: scs8hd_clkbuf_4                 
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_clkbuf_4 and scs8hd_clkbuf_4 are equivalent.
+
+Cell scs8hd_xor2_4 disconnected node: A
+Cell scs8hd_xor2_4 disconnected node: B
+Cell scs8hd_xor2_4 disconnected node: X
+Cell scs8hd_xor2_4 disconnected node: vgnd
+Cell scs8hd_xor2_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_xor2_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_xor2_4                   |Circuit 2: scs8hd_xor2_4                   
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_xor2_4 and scs8hd_xor2_4 are equivalent.
+
+Cell scs8hd_o22a_4 disconnected node: A1
+Cell scs8hd_o22a_4 disconnected node: A2
+Cell scs8hd_o22a_4 disconnected node: B1
+Cell scs8hd_o22a_4 disconnected node: B2
+Cell scs8hd_o22a_4 disconnected node: X
+Cell scs8hd_o22a_4 disconnected node: vgnd
+Cell scs8hd_o22a_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_o22a_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_o22a_4                   |Circuit 2: scs8hd_o22a_4                   
+-------------------------------------------|-------------------------------------------
+A1                                         |A1                                         
+A2                                         |A2                                         
+B1                                         |B1                                         
+B2                                         |B2                                         
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_o22a_4 and scs8hd_o22a_4 are equivalent.
+
+Cell scs8hd_buf_1 disconnected node: A
+Cell scs8hd_buf_1 disconnected node: X
+Cell scs8hd_buf_1 disconnected node: vgnd
+Cell scs8hd_buf_1 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_buf_1 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_buf_1                    |Circuit 2: scs8hd_buf_1                    
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_buf_1 and scs8hd_buf_1 are equivalent.
+
+Cell scs8hd_dfrtp_4 disconnected node: CLK
+Cell scs8hd_dfrtp_4 disconnected node: D
+Cell scs8hd_dfrtp_4 disconnected node: Q
+Cell scs8hd_dfrtp_4 disconnected node: RESETB
+Cell scs8hd_dfrtp_4 disconnected node: vgnd
+Cell scs8hd_dfrtp_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_dfrtp_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_dfrtp_4                  |Circuit 2: scs8hd_dfrtp_4                  
+-------------------------------------------|-------------------------------------------
+CLK                                        |CLK                                        
+D                                          |D                                          
+Q                                          |Q                                          
+RESETB                                     |RESETB                                     
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_dfrtp_4 and scs8hd_dfrtp_4 are equivalent.
+
+Cell scs8hd_tapvpwrvgnd_1 disconnected node: vgnd
+Cell scs8hd_tapvpwrvgnd_1 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_tapvpwrvgnd_1 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_tapvpwrvgnd_1            |Circuit 2: scs8hd_tapvpwrvgnd_1            
+-------------------------------------------|-------------------------------------------
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_tapvpwrvgnd_1 and scs8hd_tapvpwrvgnd_1 are equivalent.
+
+Cell scs8hd_a2bb2o_4 disconnected node: A1N
+Cell scs8hd_a2bb2o_4 disconnected node: A2N
+Cell scs8hd_a2bb2o_4 disconnected node: B1
+Cell scs8hd_a2bb2o_4 disconnected node: B2
+Cell scs8hd_a2bb2o_4 disconnected node: X
+Cell scs8hd_a2bb2o_4 disconnected node: vgnd
+Cell scs8hd_a2bb2o_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_a2bb2o_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_a2bb2o_4                 |Circuit 2: scs8hd_a2bb2o_4                 
+-------------------------------------------|-------------------------------------------
+A1N                                        |A1N                                        
+A2N                                        |A2N                                        
+B1                                         |B1                                         
+B2                                         |B2                                         
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_a2bb2o_4 and scs8hd_a2bb2o_4 are equivalent.
+
+Cell scs8hd_and2_4 disconnected node: A
+Cell scs8hd_and2_4 disconnected node: B
+Cell scs8hd_and2_4 disconnected node: X
+Cell scs8hd_and2_4 disconnected node: vgnd
+Cell scs8hd_and2_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_and2_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_and2_4                   |Circuit 2: scs8hd_and2_4                   
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_and2_4 and scs8hd_and2_4 are equivalent.
+
+Cell scs8hd_inv_8 disconnected node: A
+Cell scs8hd_inv_8 disconnected node: Y
+Cell scs8hd_inv_8 disconnected node: vgnd
+Cell scs8hd_inv_8 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_inv_8 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_inv_8                    |Circuit 2: scs8hd_inv_8                    
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+Y                                          |Y                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_inv_8 and scs8hd_inv_8 are equivalent.
+
+Cell scs8hd_clkbuf_16 disconnected node: A
+Cell scs8hd_clkbuf_16 disconnected node: X
+Cell scs8hd_clkbuf_16 disconnected node: vgnd
+Cell scs8hd_clkbuf_16 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_clkbuf_16 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_clkbuf_16                |Circuit 2: scs8hd_clkbuf_16                
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_clkbuf_16 and scs8hd_clkbuf_16 are equivalent.
+
+Cell scs8hd_a21boi_4 disconnected node: A1
+Cell scs8hd_a21boi_4 disconnected node: A2
+Cell scs8hd_a21boi_4 disconnected node: B1N
+Cell scs8hd_a21boi_4 disconnected node: Y
+Cell scs8hd_a21boi_4 disconnected node: vgnd
+Cell scs8hd_a21boi_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_a21boi_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_a21boi_4                 |Circuit 2: scs8hd_a21boi_4                 
+-------------------------------------------|-------------------------------------------
+A1                                         |A1                                         
+A2                                         |A2                                         
+B1N                                        |B1N                                        
+Y                                          |Y                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_a21boi_4 and scs8hd_a21boi_4 are equivalent.
+
+Cell scs8hd_or2_4 disconnected node: A
+Cell scs8hd_or2_4 disconnected node: B
+Cell scs8hd_or2_4 disconnected node: X
+Cell scs8hd_or2_4 disconnected node: vgnd
+Cell scs8hd_or2_4 disconnected node: vpwr
+Warning: Equate pins:  cell scs8hd_or2_4 has no definition, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: scs8hd_or2_4                    |Circuit 2: scs8hd_or2_4                    
+-------------------------------------------|-------------------------------------------
+A                                          |A                                          
+B                                          |B                                          
+X                                          |X                                          
+vgnd                                       |vgnd                                       
+vpwr                                       |vpwr                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes scs8hd_or2_4 and scs8hd_or2_4 are equivalent.
+
+Cell spm disconnected node: VDD
+Cell spm disconnected node: VSS
+
+Subcircuit summary:
+Circuit 1: spm                             |Circuit 2: spm                             
+-------------------------------------------|-------------------------------------------
+scs8hd_diode_2 (751)                       |scs8hd_diode_2 (751)                       
+scs8hd_clkbuf_4 (4)                        |scs8hd_clkbuf_4 (4)                        
+scs8hd_xor2_4 (31)                         |scs8hd_xor2_4 (31)                         
+scs8hd_o22a_4 (31)                         |scs8hd_o22a_4 (31)                         
+scs8hd_buf_1 (112)                         |scs8hd_buf_1 (112)                         
+scs8hd_dfrtp_4 (64)                        |scs8hd_dfrtp_4 (64)                        
+scs8hd_tapvpwrvgnd_1 (180)                 |scs8hd_tapvpwrvgnd_1 (180)                 
+scs8hd_a2bb2o_4 (31)                       |scs8hd_a2bb2o_4 (31)                       
+scs8hd_and2_4 (32)                         |scs8hd_and2_4 (32)                         
+scs8hd_inv_8 (63)                          |scs8hd_inv_8 (63)                          
+scs8hd_clkbuf_16 (1)                       |scs8hd_clkbuf_16 (1)                       
+scs8hd_a21boi_4 (1)                        |scs8hd_a21boi_4 (1)                        
+scs8hd_or2_4 (1)                           |scs8hd_or2_4 (1)                           
+Number of devices: 1302                    |Number of devices: 1302                    
+Number of nets: 408                        |Number of nets: 408                        
+---------------------------------------------------------------------------------------
+Netlists match with 215 symmetries.
+Circuits match correctly.
+
+Subcircuit pins:
+Circuit 1: spm                             |Circuit 2: spm                             
+-------------------------------------------|-------------------------------------------
+p                                          |p                                          
+y                                          |y                                          
+rst                                        |rst                                        
+x[31]                                      |x[31]                                      
+x[24]                                      |x[24]                                      
+x[25]                                      |x[25]                                      
+x[26]                                      |x[26]                                      
+x[27]                                      |x[27]                                      
+x[28]                                      |x[28]                                      
+x[29]                                      |x[29]                                      
+x[0]                                       |x[0]                                       
+x[4]                                       |x[4]                                       
+x[5]                                       |x[5]                                       
+x[3]                                       |x[3]                                       
+x[1]                                       |x[1]                                       
+x[2]                                       |x[2]                                       
+x[6]                                       |x[6]                                       
+x[15]                                      |x[15]                                      
+x[16]                                      |x[16]                                      
+x[17]                                      |x[17]                                      
+x[12]                                      |x[12]                                      
+x[13]                                      |x[13]                                      
+x[14]                                      |x[14]                                      
+x[22]                                      |x[22]                                      
+x[7]                                       |x[7]                                       
+x[8]                                       |x[8]                                       
+x[9]                                       |x[9]                                       
+x[10]                                      |x[10]                                      
+x[11]                                      |x[11]                                      
+x[18]                                      |x[18]                                      
+x[19]                                      |x[19]                                      
+x[20]                                      |x[20]                                      
+x[21]                                      |x[21]                                      
+x[23]                                      |x[23]                                      
+x[30]                                      |x[30]                                      
+clk                                        |clk                                        
+VDD                                        |vpwr **Mismatch**                          
+VSS                                        |vgnd **Mismatch**                          
+(no matching pin)                          |VDD                                        
+(no matching pin)                          |VSS                                        
+---------------------------------------------------------------------------------------
+Cell pin lists for spm and spm altered to match.
+Circuits match uniquely.

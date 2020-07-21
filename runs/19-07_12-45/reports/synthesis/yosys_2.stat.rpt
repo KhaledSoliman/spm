@@ -1,0 +1,25 @@
+
+17. Printing statistics.
+
+=== spm ===
+
+   Number of wires:                370
+   Number of wire bits:            401
+   Number of public wires:          39
+   Number of public wire bits:      70
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                366
+     scs8hd_a21boi_4                 1
+     scs8hd_a2bb2o_4                31
+     scs8hd_and2_4                  32
+     scs8hd_buf_1                  112
+     scs8hd_dfrtp_4                 64
+     scs8hd_inv_8                   63
+     scs8hd_o22a_4                  31
+     scs8hd_or2_4                    1
+     scs8hd_xor2_4                  31
+
+   Chip area for module '\spm': 5296.329600
+

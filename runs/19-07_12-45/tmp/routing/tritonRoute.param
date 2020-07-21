@@ -1,0 +1,11 @@
+lef:/openLANE_flow/designs/spm/runs/19-07_12-45//tmp//merged_unpadded.lef
+def:/openLANE_flow/designs/spm/runs/19-07_12-45//tmp/routing/addspacers.def
+guide:/openLANE_flow/designs/spm/runs/19-07_12-45//tmp/routing/fastroute.guide
+output:/openLANE_flow/designs/spm/runs/19-07_12-45//results/routing/spm.def
+outputTA:/openLANE_flow/designs/spm/runs/19-07_12-45//tmp/routing/tritonRoute_TA.def
+outputguide:/openLANE_flow/designs/spm/runs/19-07_12-45//tmp/routing/tritonRoute.guide
+outputDRC:/openLANE_flow/designs/spm/runs/19-07_12-45//reports/routing/tritonRoute.drc
+outputMaze:/openLANE_flow/designs/spm/runs/19-07_12-45//tmp/routing/tritonRoute_maze.log
+optimizationMode:0
+verbose:1
+
