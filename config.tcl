@@ -2,7 +2,7 @@
 # Design
 set ::env(DESIGN_NAME) "spm"
 
-set ::env(VERILOG_FILES) [glob $::env(OPENLANE_ROOT)/designs/spm/src/*.v]
+set ::env(VERILOG_FILES) [glob $::env(OPENLANE_ROOT)/designs/$::env(DESIGN_NAME)/src/*.v]
 
 set ::env(CLOCK_PERIOD) "10.000"
 set ::env(CLOCK_PORT) "clk"
